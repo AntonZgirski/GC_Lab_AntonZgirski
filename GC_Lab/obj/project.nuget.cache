@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZnZRLogi2Y7sWNrbKVAS3XQbratkyrNdPLyCebtHFMPimoDaJvkMVmV7HlCveQHVn/aYyjNfbSx2TcRI1hzhQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\TMS\\GC_Lab\\GC_Lab\\GC_Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

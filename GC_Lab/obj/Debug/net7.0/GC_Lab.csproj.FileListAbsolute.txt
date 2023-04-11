@@ -1,0 +1,17 @@
+D:\C#\TMS\GC_Lab\GC_Lab\bin\Debug\net7.0\GC_Lab.exe
+D:\C#\TMS\GC_Lab\GC_Lab\bin\Debug\net7.0\GC_Lab.deps.json
+D:\C#\TMS\GC_Lab\GC_Lab\bin\Debug\net7.0\GC_Lab.runtimeconfig.json
+D:\C#\TMS\GC_Lab\GC_Lab\bin\Debug\net7.0\GC_Lab.dll
+D:\C#\TMS\GC_Lab\GC_Lab\bin\Debug\net7.0\GC_Lab.pdb
+D:\C#\TMS\GC_Lab\GC_Lab\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.csproj.AssemblyReference.cache
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.AssemblyInfoInputs.cache
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.AssemblyInfo.cs
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.csproj.CoreCompileInputs.cache
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.csproj.CopyComplete
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.dll
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\refint\GC_Lab.dll
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.pdb
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\GC_Lab.genruntimeconfig.cache
+D:\C#\TMS\GC_Lab\GC_Lab\obj\Debug\net7.0\ref\GC_Lab.dll
