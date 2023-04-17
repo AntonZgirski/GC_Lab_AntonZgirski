@@ -17,8 +17,7 @@ namespace GC_Lab
       
       using (FileStream fs = new FileStream("person.json", FileMode.Create, FileAccess.Write, FileShare.None))
       {
-        await JsonSerializer.SerializeAsync<Person>(fs, person);
-        Console.WriteLine("Data save to file.");
+        await JsonSerializer.SerializeAsync<Person>(fs, person);        
       }
     }
 
@@ -26,8 +25,7 @@ namespace GC_Lab
     {      
       using(FileStream fs = new FileStream("person.json", FileMode.Open, FileAccess.Read, FileShare.None))
       {
-        var per = await JsonSerializer.DeserializeAsync<Person>(fs);
-        Console.WriteLine($"FName: {per.FName}\nSName: {per.SName}\nAge: {per.Age}\nAddress: {per.Address}");
+        var per = await JsonSerializer.DeserializeAsync<Person>(fs);        
       }
     }
   }
